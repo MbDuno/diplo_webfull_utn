@@ -1,0 +1,70 @@
+body{
+    background-color: rgba(30, 110, 85, 0.416);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1{
+    color: #ffffff; /*color de la fuente*/
+    text-transform: uppercase; /*mayuscula*/
+    background-color: #0c5661;
+    padding: 15px 0 15px 30px;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    line-height: 20px;
+}
+
+p{
+    line-height: 10px;
+    font-size: 18px;
+    font-style: italic;
+}
+
+ul, ol{
+    list-style-position: inside;
+    
+}
+
+.subrayado{
+    text-decoration: underline;
+    max-width: 600px;
+    margin: 15px auto;
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+.resalte{
+    color: #df2841;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.borde_foto{
+    border: 10px solid rgba(89, 47, 107, 0.563);
+}
+
+.perfil_prof{
+    color: #ffffff; 
+    background-color: #0c5661;
+    text-align: center;
+    padding: 20px 0 20px 20px;
+    box-sizing: border-box;
+}
+
+.formulario {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: #ffffff;
+    padding: 30px;
+    }
+
+
+
+
+
+
+
